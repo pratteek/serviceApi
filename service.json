@@ -1,0 +1,46 @@
+{
+    "services" : [
+    {
+    "id": 1,
+    "serviceName": "E-Line",
+    "property": "frame delay",
+    "threshold": "100 ms",
+    "status": "inActive"
+    },
+    {
+    "id": 2,
+    "serviceName": "E-LAN",
+    "property": "frame loss",
+    "threshold": "80 ms",
+    "status": "inActive"
+    },
+    {
+    "id": 3,
+    "serviceName": "Metro Ethernet",
+    "property": "Ping",
+    "threshold": "35 ms",
+    "status": "Active"
+    },
+    {
+    "id": 4,
+    "serviceName": "E-Tree",
+    "property": "Latency",
+    "threshold": "120 ms",
+    "status": "inActive"
+    },
+    {
+    "id": 5,
+    "serviceName": "MPLS",
+    "property": "Jitter",
+    "threshold": "44 ms",
+    "status": "Active"
+    },
+    {
+    "id": 6,
+    "serviceName": "E-LAN",
+    "property": "frame delay",
+    "threshold": "66 ms",
+    "status": "inActive"
+    }
+]
+}
